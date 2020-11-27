@@ -40,7 +40,7 @@ i18n:
   activeIncidents: 活跃事件
   allSystemsOperational: 所有服务运行正常
   incidentReport: "事件 #$NUMBER 报告 →"
-  activeIncidentSummary: 于 $DATE 由 $POSTS 开始
+  activeIncidentSummary: 事件 $POSTS：于 $DATE 开始
   incidentTitle: 事件 $NUMBER 详情
   incidentDetails: 事件详情
   incidentFixed: 已修复
@@ -49,10 +49,10 @@ i18n:
   incidentClosedAt: 结束于
   incidentSubscribe: 订阅事件更新
   incidentViewOnGitHub: 在GitHub上查看
-  incidentCommentSummary: 于 $DATE 由 $AUTHOR 发布
+  incidentCommentSummary: 由 $AUTHOR 于 $DATE 发布
   incidentBack: ← 返回列表
   pastIncidents: 过去事件
-  pastIncidentsResolved: 在 $MINUTES 分钟内由 $POSTS 解决
+  pastIncidentsResolved: 事件 $POSTS：在 $MINUTES 分钟内解决
   liveStatus: 实时状态
   overallUptime: "可用性: $UPTIME"
   overallUptimeTitle: 可用性
