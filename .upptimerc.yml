@@ -4,8 +4,14 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: My Blog
-    url: https://www.ngc7331.top:4443
+  - name: Blog
+    url: https://ngc7331.top:4443
+  - name: Nextcloud
+    url: https://nc.ngc7331.top:4443
+  - name: Onedrive-Programs
+    url: $ONEDRIVE_PROGRAMS
+  - name: Onedrive-Programs-Backend(Microsoft)
+    url: $ONEDRIVE_PROGRAMS_BACKEND
     
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
