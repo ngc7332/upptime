@@ -23,7 +23,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://tools.ngc7331.top:4443/server-icon.png
   name: xu_zh的服务器还活着吗？
-  introTitle: 欢迎来到xu\_zh的辣鸡服务器
+  introTitle: 欢迎来到xu_zh的辣鸡服务器
   introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行"
   navbar:
     #- title: Status
@@ -66,7 +66,7 @@ i18n:
   ms: ms
   loading: 载入中
   navGitHub: GitHub
-  footer: 本页面是 [开源软件]($REPO), 由 [Upptime](https://upptime.js.org) 出品, 由 [xu\_zh](https://github.com/ngc7331) 翻译
+  footer: 本页面是 [开源软件]($REPO), 由 [Upptime](https://upptime.js.org) 出品, 由 [xu_zh](https://github.com/ngc7331) 翻译
   rateLimitExceededTitle: 达到请求数上限
   rateLimitExceededIntro: 你已达到本小时的请求数上限，因此你需要等待一段时间才能再次访问。你也可以添加一个GitHub个人访问令牌(Personal Access Token)来继续使用本页面。
   rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么？
