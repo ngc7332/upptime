@@ -21,13 +21,13 @@ status-website:
   #cname: upptime.ngc7331.top
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://tools.ngc7331.top:4443/favicon.ico
+  logoUrl: https://tools.ngc7331.top:4443/server-icon.png
   name: xu_zh的服务器还活着吗？
   introTitle: 欢迎来到xu_zh的辣鸡服务器
   introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行"
   navbar:
-    - title: Status
-      href: /
+    #- title: Status
+    #  href: /
     - title: My Blog
       href: https://ngc7331.top:4443
     - title: GitHub
@@ -35,3 +35,51 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 活跃事件
+  allSystemsOperational: 所有服务运行正常
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 于 $DATE 由 $POSTS 开始
+  incidentTitle: 事件 $NUMBER 详情
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 进行中
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
+  incidentSubscribe: 订阅事件更新
+  incidentViewOnGitHub: 在GitHub上查看
+  incidentCommentSummary: 于 $DATE 由 $AUTHOR 发布
+  incidentBack: ← 返回列表
+  pastIncidents: 过去事件
+  pastIncidentsResolved: 在 $MINUTES 分钟内由 $POSTS 解决
+  liveStatus: 实时状态
+  overallUptime: "可用性: $UPTIME"
+  overallUptimeTitle: 可用性
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7天内响应时间
+  responseTimeMs: 响应时间 (ms)
+  up: 在线
+  down: 离线
+  degraded: 已降级
+  ms: ms
+  loading: 载入中
+  navGitHub: GitHub
+  footer: 本页面是 [开源软件]($REPO), 由 [Upptime](https://upptime.js.org) 出品, 由 [xu_zh](https://github.com/ngc7331)翻译
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: 发生错误
+  errorIntro: 尝试获取最新信息时发生错误
+  errorText: 请稍后再试
+  errorHome: 返回主页
