@@ -20,7 +20,7 @@
     "url": "$ONEDRIVE_PROGRAMS",
     "slug": "onedrive-programs",
     "status": "down",
-    "uptime": "3.94%",
+    "uptime": "2.39%",
     "time": 0
   },
   {
@@ -28,7 +28,7 @@
     "url": "$ONEDRIVE_PROGRAMS_BACKEND",
     "slug": "onedrive-programs-backend-microsoft",
     "status": "down",
-    "uptime": "3.04%",
+    "uptime": "1.97%",
     "time": 0
   }
 ]
