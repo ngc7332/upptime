@@ -23,7 +23,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://tools.ngc7331.top:4443/server-icon.png
   name: xu_zh的服务器还活着吗？
-  introTitle: "欢迎来到xu_zh的辣鸡服务器"
+  introTitle: "欢迎来到xu\_zh的辣鸡服务器"
   introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行"
   navbar:
     #- title: Status
