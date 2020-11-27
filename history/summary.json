@@ -5,7 +5,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2991
+    "time": 3283
   },
   {
     "name": "Nextcloud",
@@ -13,7 +13,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2662
+    "time": 2615
   },
   {
     "name": "Onedrive-Programs",
@@ -21,14 +21,14 @@
     "slug": "onedrive-programs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3713
+    "time": 3918
   },
   {
     "name": "Onedrive-Programs-Backend(Microsoft)",
     "url": "$SECRET_SITE_2",
     "slug": "onedrive-programs-backend-microsoft",
     "status": "up",
-    "uptime": "61.69%",
-    "time": 1044
+    "uptime": "63.20%",
+    "time": 994
   }
 ]
