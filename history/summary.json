@@ -11,9 +11,9 @@
     "name": "Red",
     "url": "$SECRET_SITE_1",
     "slug": "red",
-    "status": "down",
-    "uptime": "22.18%",
-    "time": 421
+    "status": "up",
+    "uptime": "21.62%",
+    "time": 624
   },
   {
     "name": "Onedrive(Microsoft)",
