@@ -5,7 +5,7 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Black
-    url: https://ngc7331.top:4443
+    url: https://isblackalive.ngc7331.top:4443
   - name: Red
     url: $SECRET_SITE_1
   - name: Onedrive(Microsoft)
