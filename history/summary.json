@@ -1,19 +1,19 @@
 [
   {
     "name": "Black",
-    "url": "https://ngc7331.top:4443",
+    "url": "https://isblackalive.ngc7331.top:4443",
     "slug": "black",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2820
+    "time": 2413
   },
   {
     "name": "Red",
     "url": "$SECRET_SITE_1",
     "slug": "red",
     "status": "up",
-    "uptime": "21.62%",
-    "time": 624
+    "uptime": "25.62%",
+    "time": 655
   },
   {
     "name": "Onedrive(Microsoft)",
@@ -21,6 +21,6 @@
     "slug": "onedrive-microsoft",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3154
+    "time": 2853
   }
 ]
