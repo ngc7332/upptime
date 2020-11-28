@@ -19,8 +19,8 @@
     "name": "Red",
     "url": "$SECRET_SITE_3",
     "slug": "red",
-    "status": "up",
-    "uptime": "41.64%",
-    "time": 568
+    "status": "down",
+    "uptime": "61.58%",
+    "time": 454
   }
 ]
