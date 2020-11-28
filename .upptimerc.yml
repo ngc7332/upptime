@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ngc7331/upptime/master/icon.png
   name: xu_zh的服务器还活着吗？
   introTitle: "欢迎来到xu\_zh的辣鸡服务器"
-  introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行。Black为阿里云公网服务器，包含Blog、Nextcloud、Oneindex等服务。Onedrive为由微软提供的后端服务，如果您无法从Oneindex上下载文件则多半是该服务出现问题。Red为内网测试服务器。"
+  introMessage: "本页面基于开源软件[**Upptime**](https://github.com/koj-co/upptime)和Github Action，其作用是监控本站服务是否正常运行。Black为阿里云公网服务器，包含Blog、Nextcloud、Oneindex等服务。Onedrive为由微软提供的后端服务，如果您无法从Oneindex上下载文件则多半是该服务出现问题。Red为内网测试服务器，本页面到它的链接需要经过Black中继，即当Black和Red同时离线时Red可能仍在正常运行"
   navbar:
     #- title: Status
     #  href: /
