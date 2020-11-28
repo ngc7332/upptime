@@ -28,7 +28,7 @@
     "url": "$SECRET_SITE_2",
     "slug": "onedrive-programs-backend-microsoft",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.79%",
     "time": 863
   },
   {
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE_3",
     "slug": "red",
     "status": "down",
-    "uptime": "6.43%",
-    "time": 0
+    "uptime": "18.81%",
+    "time": 351
   }
 ]
