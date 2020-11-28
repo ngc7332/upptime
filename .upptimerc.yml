@@ -6,10 +6,10 @@ repo: upptime # Your Github repository name
 sites:
   - name: Black
     url: https://ngc7331.top:4443
+  - name: Red
+    url: $SECRET_SITE_1
   - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
-  - name: Red
-    url: $SECRET_SITE_3
 
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
