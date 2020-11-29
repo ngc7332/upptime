@@ -5,15 +5,15 @@
     "slug": "black",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2413
+    "time": 2063
   },
   {
     "name": "Red",
     "url": "$SECRET_SITE_1",
     "slug": "red",
     "status": "up",
-    "uptime": "25.62%",
-    "time": 655
+    "uptime": "91.07%",
+    "time": 666
   },
   {
     "name": "Onedrive(Microsoft)",
@@ -21,6 +21,6 @@
     "slug": "onedrive-microsoft",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2853
+    "time": 2387
   }
 ]
