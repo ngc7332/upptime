@@ -5,15 +5,31 @@
     "slug": "black",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1624
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1562,
+    "timeDay": 1125,
+    "timeWeek": 1562,
+    "timeMonth": 1562,
+    "timeYear": 1562
   },
   {
     "name": "Red",
     "url": "$SECRET_SITE_1",
     "slug": "red",
     "status": "up",
-    "uptime": "97.97%",
-    "time": 712
+    "uptime": "98.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
+    "time": 1022,
+    "timeDay": 956,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022
   },
   {
     "name": "Onedrive(Microsoft)",
@@ -21,6 +37,14 @@
     "slug": "onedrive-microsoft",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1806
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1726,
+    "timeDay": 1158,
+    "timeWeek": 1726,
+    "timeMonth": 1726,
+    "timeYear": 1726
   }
 ]
