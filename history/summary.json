@@ -35,16 +35,16 @@
     "name": "Onedrive(Microsoft)",
     "url": "$SECRET_SITE_2",
     "slug": "onedrive-microsoft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1708,
-    "timeDay": 2336,
-    "timeWeek": 1217,
-    "timeMonth": 1708,
-    "timeYear": 1708
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1675,
+    "timeDay": 1841,
+    "timeWeek": 1233,
+    "timeMonth": 1675,
+    "timeYear": 1675
   }
 ]
