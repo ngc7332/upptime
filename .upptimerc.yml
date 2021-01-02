@@ -4,14 +4,14 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Orange
+    url: https://isorangealive.ngc7331.site
   - name: Black
     url: https://isblackalive.ngc7331.top:4443
   - name: Red
     url: $SECRET_SITE_1
   - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
-  - name: Orange
-    url: http://ngc7331.site
 
 assignees: # Users to assign downtime issues (optional)
   - ngc7331
