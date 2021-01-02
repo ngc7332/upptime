@@ -1,5 +1,27 @@
 [
   {
+    "name": "Orange",
+    "url": "https://isorangealive.ngc7331.site",
+    "icon": "https://favicons.githubusercontent.com/isorangealive.ngc7331.site",
+    "slug": "orange",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 352,
+    "timeDay": 303,
+    "timeWeek": 292,
+    "timeMonth": 352,
+    "timeYear": 352,
+    "dailyMinutesDown": {
+      "2020-12-23": 71,
+      "2020-12-22": 42,
+      "2020-12-21": 8
+    }
+  },
+  {
     "name": "Black",
     "url": "https://isblackalive.ngc7331.top:4443",
     "icon": "https://favicons.githubusercontent.com/isblackalive.ngc7331.top",
@@ -10,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 1132,
-    "timeWeek": 1053,
-    "timeMonth": 1102,
-    "timeYear": 1194,
+    "time": 1201,
+    "timeDay": 1305,
+    "timeWeek": 1106,
+    "timeMonth": 1114,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.67%",
-    "time": 866,
-    "timeDay": 866,
-    "timeWeek": 835,
-    "timeMonth": 824,
-    "timeYear": 866,
+    "time": 890,
+    "timeDay": 1399,
+    "timeWeek": 972,
+    "timeMonth": 855,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2020-12-24": 28,
       "2020-12-09": 27,
@@ -50,37 +72,15 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.78%",
-    "time": 1904,
-    "timeDay": 8601,
-    "timeWeek": 4065,
-    "timeMonth": 1922,
-    "timeYear": 1904,
+    "time": 1972,
+    "timeDay": 7724,
+    "timeWeek": 4168,
+    "timeMonth": 2001,
+    "timeYear": 1972,
     "dailyMinutesDown": {
       "2021-01-01": 17,
       "2020-12-11": 64,
       "2020-12-07": 31
-    }
-  },
-  {
-    "name": "Orange",
-    "url": "http://ngc7331.site",
-    "icon": "https://favicons.githubusercontent.com/ngc7331.site",
-    "slug": "orange",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
-    "time": 353,
-    "timeDay": 272,
-    "timeWeek": 286,
-    "timeMonth": 353,
-    "timeYear": 353,
-    "dailyMinutesDown": {
-      "2020-12-23": 71,
-      "2020-12-22": 42,
-      "2020-12-21": 8
     }
   }
 ]
