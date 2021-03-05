@@ -26,9 +26,9 @@
     "url": "https://isblackalive.ngc7331.top:4443",
     "icon": "https://favicons.githubusercontent.com/isblackalive.ngc7331.top",
     "slug": "black",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1184,
     "timeMonth": 1133,
     "timeYear": 1194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "Red",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "onedrive-microsoft",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.67%",
+    "uptimeYear": "97.68%",
     "time": 1971,
     "timeDay": 287,
     "timeWeek": 303,
