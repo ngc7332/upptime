@@ -28,7 +28,7 @@ status-website:
     #- title: Status
     #  href: /
     - title: My Blog
-      href: https://ngc7331.site
+      href: https://ngc7331.top
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
