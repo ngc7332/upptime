@@ -5,11 +5,11 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Orange
-    url: https://isorangealive.ngc7331.site
+    url: https://isorangealive.ngc7331.top
   - name: Red
     url: $SECRET_SITE_1
   - name: Silver
-    url: https://issilveralive.ngc7331.site
+    url: https://issilveralive.ngc7331.top
   - name: Onedrive(Microsoft)
     url: $SECRET_SITE_2
 
